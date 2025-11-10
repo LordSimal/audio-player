@@ -7,6 +7,9 @@
 
 ![Player Preview](https://i.imgur.com/qVX68ve.gif)
 
+> [!NOTE]
+> This is a fork which made some adjusted related to removing Google Fonts and adding Tailwind v4 support.
+
 ### Demo: [https://audioplayer.madza.dev](https://audioplayer.madza.dev)
 
 ---
